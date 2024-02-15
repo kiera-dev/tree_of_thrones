@@ -7,6 +7,11 @@ An interactive tree of who is alive &amp; who is dead in Game of Thrones.
 
 ## How to run: 
 
+Go here and view it in a web browser: (https://tree-of-thrones-service-hcwqxldcva-uw.a.run.app)
+
+OR:
+
+
 Download the .NET SDK (https://dotnet.microsoft.com/en-us/download)
 
 Open a terminal/cmd prompt. Run: 
