@@ -15,7 +15,7 @@ git clone git@github.com:kiera-dev/tree_of_thrones.git
 ```
 
 Navigate to the project folder
-```
+``` 
 cd tree_of_thrones
 ```
 
